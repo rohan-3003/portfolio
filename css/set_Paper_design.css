@@ -1,0 +1,85 @@
+.ques{
+  height:30px;
+  width:50%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  width:93%;
+  margin-left:20px;
+  margin-right: 20px;
+}
+#queBox{
+  margin:15px;
+  padding:auto;
+  display:block;
+  width:100%;
+}
+.opt1{
+  height:30px;
+  width:50%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  width:18%;
+  margin-left:18px;
+  margin-right: 10px;
+}
+.opt2{
+  height:30px;
+  width:50%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  width:18%;
+  margin-left:18px;
+  margin-right: 10px;
+}
+.opt3{
+  height:30px;
+  width:50%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  width:18%;
+  margin-left:18px;
+  margin-right: 10px;
+}
+.opt4{
+  height:30px;
+  width:50%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  width:18%;
+  margin-left:18px;
+  margin-right: 10px;
+}
+.ans{
+  height:30px;
+  width:50%;
+  padding:10px;
+  margin-top:10px;
+  margin-bottom:10px;
+  width:18%;
+  margin-left:28px;
+  margin-right: 10px;
+}
+.updateButton{
+  width:80px;
+  height:30px;
+}
+.removeButton{
+  width:80px;
+  height:30px;
+  margin-right:10px;
+}
+#addQueBox{
+  width:80px;
+  height:30px;
+  margin-left:5%;
+}
+#addNewQue{
+  width:80px;
+  height:30px;
+  margin-left:5%;
+}
